@@ -6,8 +6,9 @@ Node-RED Bluemix Starter Application
 This repository is an example Node-RED application that can be deployed into
 Bluemix with only a couple clicks. Try it out for yourself right now by clicking:
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/node-red/node-red-bluemix-starter.git)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/andyjwalter/node-red-bluemix-starter.git)
 
+### Test fork clone from my account https://github.com/andyjwalter/node-red-bluemix-starter.git
 ### How does this work?
 
 When you click the button, you are taken to Bluemix where you get a pick a name
